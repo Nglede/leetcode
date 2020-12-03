@@ -1,4 +1,4 @@
-import Valid_Sudoku from "../../code/array/Valid_Sudoku";
+import Valid_Sudoku from "../../code/array/036_Valid_Sudoku";
 
 const isValidSudoku = [["5", "3", ".", ".", "7", ".", ".", ".", "."],
     ["6", ".", ".", "1", "9", "5", ".", ".", "."],
